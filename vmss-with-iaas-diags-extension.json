@@ -40,7 +40,8 @@
         "type": "string"
     },
     "diagnosticsStorageAccountType": {
-        "type": "string"
+        "type": "string",
+        "defaultValue": "Standard_LRS",
     }
   },
   "variables": {
